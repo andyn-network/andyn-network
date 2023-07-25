@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @andyn-network
-- 👀 I’m interested in ... web deveelopment, programming, graphic design, film & photography, music and gaming.
+- 👀 I’m interested in ... web development, programming, graphic design, film & photography, music and gaming.
 - 🌱 I’m currently learning ... javascript.
 - 📫 How to reach me ... twitter, reddit and discord.
 
