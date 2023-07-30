@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @andyn-network
-- 👀 I’m interested in ... web development, programming, graphic design, film & photography, music and gaming.
+- 👋 Hi, I’m @andyn-network, a future web developer, designer, software engineer. 
+- 👀 I’m interested in ... web development, programming, design, film, photography, music and gaming.
 - 🌱 I’m currently learning ... javascript.
 - 📫 How to reach me ... [twitter](https://twitter.com/andyn_network "twitter"), [reddit](https://www.reddit.com/user/andyn-network "reddit") and [discord](https://www.discordapp.com/users/1131188074173444167).
 
