@@ -5,7 +5,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andyn-network&theme=dark)](https://git.io/streak-stats)
 ## My Skills:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,jquery,vscode,ps,pr)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,js,html,css,sass,react,bootstrap,jquery,d3,git,netlify,nodejs,redux,svg,vite,ps,pr)](https://skillicons.dev)
 
 ## My Socials:
 [![My Socials](https://skillicons.dev/icons?i=twitter,discord,github,linkedin)](https://skillicons.dev)
