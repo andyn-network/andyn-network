@@ -10,6 +10,7 @@
 
 ## My Socials:
 [![My Socials](https://skillicons.dev/icons?i=twitter,discord,github,linkedin)](https://skillicons.dev)
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/8eab093e-8727-4fa7-9edc-2001ccabec01/deploy-status)](https://app.netlify.com/sites/andyn-network/deploys)
 
 
