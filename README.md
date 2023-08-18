@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andyn-network, a future web developer, designer, software engineer. 
 - 👀 I’m interested in web development, programming, design, film, photography, music and gaming.
-- 🌱 I’m currently learning REACT and TYPESCRIPT.
+- 🌱 I’m currently learning REACT and TYPESCRIPT, as well as other fornt-end frameworks.
 - 📫 How to reach me ... [twitter](https://twitter.com/andyn_network "twitter"), [reddit](https://www.reddit.com/user/andyn-network "reddit"), [discord](https://www.discordapp.com/users/1131188074173444167), or [linkedin](https://www.linkedin.com/in/andyn-network/ "linkedin").
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andyn-network&theme=dark)](https://git.io/streak-stats)
